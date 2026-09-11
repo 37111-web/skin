@@ -11,7 +11,7 @@ main{
 header{
     width: 100%;
     height: 20vh;
-    background: #1a0e46;
+    background: #262727;
 }
 
 section{
@@ -23,18 +23,18 @@ section{
 
 
 #cs2{
-    background: #D97A15;
+    background: #161616;
     
 }
 
 #valorant{
-    background: #F74352;
+    background: #161616;
 }
 
 .skins{
     width: 18%;
     height: 30vh;
-    background: #fff;
+    background: #000000;
     margin-left: 1.6%;
     margin-top: 0.5vh;
     float: left;
@@ -44,6 +44,6 @@ section{
 footer{
     width: 100%;
     height: 10vh;
-    background: #42d0ff;
+    background: #262727;
     float: left;
 }

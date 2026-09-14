@@ -24,6 +24,7 @@ section{
 
 #cs2{
     background: #161616;
+
     
 }
 
@@ -46,4 +47,40 @@ footer{
     height: 10vh;
     background: #262727;
     float: left;
+
+}
+
+section img{
+    width: 150px;
+    height: auto;
+    margin-top: 1.5vh;
+    margin-left: 15%;
+}
+section h3{
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    margin-top: 5vh;
+    margin-left: 2%;
+}
+section h4{
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+    margin-top: 5vh;
+    margin-left: 15%;
+}
+section h5{
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    margin-top: 5vh;
+    margin-left: 18%;
+}
+section h6{
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    margin-top: 5vh;
+    margin-left: 8%;
 }
